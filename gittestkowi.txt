@@ -3,3 +3,5 @@ nur ein kleines file, um auszuprobieren, ob das funktioniert
 und ich war hier
 
 heute ist der 30.06.2016, daher eben auch endofjune
+
+und jetzt kommt die letzte Änderung für die Pull Request Bonus Challenge
